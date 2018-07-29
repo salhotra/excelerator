@@ -1,0 +1,17 @@
+{
+  "name": "excelerator",
+  "version": "1.0.0",
+  "description": "This app is used to read/write/modify data from xlsx files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Nishant Salhotra",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.4.2"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
