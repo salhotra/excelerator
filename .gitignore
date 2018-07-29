@@ -50,3 +50,6 @@ typings/
 
 # dotenv environment variables file
 .env
+
+# XLSX files
+*.xlsx
